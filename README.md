@@ -1,0 +1,2 @@
+# ejcemacs
+Emacs config
